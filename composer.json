@@ -1,0 +1,12 @@
+{
+  "name": "shuffle/theme",
+  "description": "Shuffle WordPress Theme",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "ShuffleWP",
+      "homepage": "https://shufflewp.com"
+    }
+  ],
+  "type": "wordpress-theme",
+}
